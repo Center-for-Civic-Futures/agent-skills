@@ -9,4 +9,7 @@ The tool lets you upload project planning and design documents, asks questions t
 3. Bias and ethical considerations
 4. Responsible use and deployment
 
-Contact [Center for Civic Futures](https://www.centerforcivicfutures.org/contact) for more information.
+Check your AI app documentation for instructions on how to install new skills, then 
+start the experience with the prompt like, "Help me evaluate an AI use case."
+
+Please contact [Center for Civic Futures](https://www.centerforcivicfutures.org/contact) for more information or to share any feedback.
