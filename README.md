@@ -1,2 +1,3 @@
-# tools
-Assorted tools published and shared by the Center for Civic Futures
+# Agent Skills
+
+Assorted agent skills shared by [Center for Civic Futures](https://centerforcivicfutures.org).
